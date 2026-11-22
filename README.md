@@ -1,10 +1,5 @@
-# project-mangement-dashobard
 # 📊 Project Management – Executive Dashboard (Microsoft Excel)
-
-## 📌 Project Overview
-
 The **Project Management Executive Dashboard** is an interactive data analytics project developed using Microsoft Excel. The dashboard provides a clear overview of project performance, task progress, workload distribution, and planned effort.
-
 The objective of this project is to transform raw project management data into meaningful insights through interactive visualizations and KPI tracking, helping users monitor project activities and make data-driven decisions.
 
 ## 🖥️ Dashboard Preview
@@ -13,7 +8,6 @@ https://github.com/princypatel-creator/project-mangement-dashobard/blob/main/Scr
 ## 📈 Key Performance Indicators (KPIs)
 
 The dashboard includes the following KPIs:
-
  KPI  Value:-
 | Total Tasks - 46 
 | Average Progress - 37% 
