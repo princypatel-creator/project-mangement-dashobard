@@ -3,7 +3,8 @@ The **Project Management Executive Dashboard** is an interactive data analytics 
 The objective of this project is to transform raw project management data into meaningful insights through interactive visualizations and KPI tracking, helping users monitor project activities and make data-driven decisions.
 
 ## 🖥️ Dashboard Preview
-https://github.com/princypatel-creator/project-mangement-dashobard/blob/main/Screenshot%202026-11-22%20165813.png **Dashboard view**
+**Dashboard view**<img width="1377" height="685" alt="Screenshot 2026-11-22 165813" src="https://github.com/user-attachments/assets/dbecc67c-7205-4b46-85a6-6f041888218e" />
+
 
 ## 📈 Key Performance Indicators (KPIs)
 
